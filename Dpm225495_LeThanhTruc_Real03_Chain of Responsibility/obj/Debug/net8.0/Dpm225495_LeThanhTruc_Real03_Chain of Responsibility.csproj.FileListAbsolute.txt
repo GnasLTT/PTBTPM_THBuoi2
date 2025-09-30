@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real03_Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real03_Chain of Responsibility.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real03_Chain of Responsibility.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real03_Chain of Responsibility.csproj.CoreCompileInputs.cache
