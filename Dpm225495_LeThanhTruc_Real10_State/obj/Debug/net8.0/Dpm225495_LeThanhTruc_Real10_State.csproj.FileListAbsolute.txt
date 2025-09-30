@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.exe
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.deps.json
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.runtimeconfig.json
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.dll
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.pdb
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.dll
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\obj\Debug\net8.0\refint\Dpm225495_LeThanhTruc_Real10_State.dll
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.pdb
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real10_State.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real10_State\obj\Debug\net8.0\ref\Dpm225495_LeThanhTruc_Real10_State.dll
