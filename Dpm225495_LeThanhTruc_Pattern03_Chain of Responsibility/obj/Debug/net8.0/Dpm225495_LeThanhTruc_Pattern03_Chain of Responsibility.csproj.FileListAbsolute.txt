@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.exe
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.deps.json
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.runtimeconfig.json
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.dll
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.pdb
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.dll
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\obj\Debug\net8.0\refint\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.dll
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.pdb
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility\obj\Debug\net8.0\ref\Dpm225495_LeThanhTruc_Pattern03_Chain of Responsibility.dll
