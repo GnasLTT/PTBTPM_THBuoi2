@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern04_Command\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern04_Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern04_Command\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern04_Command.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern04_Command\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern04_Command.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Pattern04_Command\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Pattern04_Command.csproj.CoreCompileInputs.cache
