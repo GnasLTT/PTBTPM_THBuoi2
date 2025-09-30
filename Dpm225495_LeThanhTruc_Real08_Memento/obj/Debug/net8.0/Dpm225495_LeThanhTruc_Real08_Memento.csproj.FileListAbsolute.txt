@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.exe
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.deps.json
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.runtimeconfig.json
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.dll
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\bin\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.pdb
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.dll
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\obj\Debug\net8.0\refint\Dpm225495_LeThanhTruc_Real08_Memento.dll
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.pdb
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\obj\Debug\net8.0\Dpm225495_LeThanhTruc_Real08_Memento.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Dpm225495_LeThanhTruc_PTBTPM\Dpm225495_LeThanhTruc_Real08_Memento\obj\Debug\net8.0\ref\Dpm225495_LeThanhTruc_Real08_Memento.dll
